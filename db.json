@@ -1,0 +1,52 @@
+{
+  "users": [
+    {
+      "name": "Faizan",
+      "age": "23",
+      "place": "mumbai",
+      "batch_name": "web13",
+      "profession": "student",
+      "id": 1
+    },
+    {
+      "name": "abc",
+      "age": "24",
+      "place": "mumbai",
+      "batch_name": "web13",
+      "profession": "student",
+      "id": 2
+    },
+    {
+      "name": "gef",
+      "age": "25",
+      "place": "mumbai",
+      "batch_name": "web13",
+      "profession": "fsd",
+      "id": 3
+    },
+    {
+      "name": "Faizan shaikh",
+      "age": "26",
+      "place": "mumbai",
+      "batch_name": "web13",
+      "profession": "frontend",
+      "id": 4
+    },
+    {
+      "name": "bbb",
+      "age": "27",
+      "place": "mumbai",
+      "batch_name": "web13",
+      "profession": "backend",
+      "id": 5
+    },
+    {
+      "name": "aaa",
+      "age": "28",
+      "place": "mumbai",
+      "batch_name": "web13",
+      "profession": "fsd",
+      "id": 6
+    }
+  ]
+}
